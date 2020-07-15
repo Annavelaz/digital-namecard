@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Torres Centeno;Rafael;;;
+FN: Rafael Torres Centeno 
+ORG:Zabor PC, LLC;
+TITLE:Asesor de Sistemas
+EMAIL;type=INTERNET;type=WORK;type=pref:rtc@zaboreats.com
+TEL;type=WORK;type=VOICE:863 604 6313
+item1.ADR;type=WORK;type=pref:;;Urb Alturas 1\nCalle 7 F37\;;;Penuelas,;PR 00624
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:zaboreats.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
